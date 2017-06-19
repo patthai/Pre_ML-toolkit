@@ -1,0 +1,265 @@
+{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "I saw you in green velvet. wide full sleeves seated in front of a fireplace. our house made somehow more gracious. and you said \"There are stars in your hair\"— it was truth I brought down with me,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.5094280357475093
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.49057196425249056
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "to this sullen and dingy place that we must make golden make precious and mythical somehow. it is our nature. and it is truth. that we came here. I told you. from other planets where we were lords. we were sent here.,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.9232823690362703
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.0767176309637297
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "buying scads of new poems from all corners of the earth then head to the all-night Tower Records full of drag queens & revolutionaries. to get a few songs And dig it. City Lights still here. like some old lighthouse though all the rest is gone.,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.9922531048082374
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.007746895191762595
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "off hills when you run flaming down to the black sea,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.957770655485864
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.04222934451413595
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "for some purpose the golden mask I had seen before. that fitted so beautifully over your face. did not return nor did that face of a bull you had acquired amid northern peoples. nomads. the Gobi desert,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.9944196250982306
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.005580374901769411
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "I am a shadow crossing ice I am rusting knife in the water I am pear tree bitten by frost I uphold the mountain with my hand My feet are cut by glass,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.9686563724307906
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.031343627569209415
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "is locked with silver wire I have burned often and my bones are soup I am stone giant statue on a cliff I am mad as a blizzard I stare out of broken cupboards,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.9936178848329059
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.006382115167094012
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "that she is eternal. that she sings that she is star-born. that she gathers crystal that she can be confused with Isis that she is the goal that she knows her name. that she swims,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.992876343864003
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.007123656135996895
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "in the purple sky. that her fingers are pale & strong that she is black. that she is white that you always know who she is when she appears that she strides on battlements. that she sifts,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.9929483089073059
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.007051691092694023
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "like stones in the sea that you can hear her approach. that her jewelled feet tread any particular measure that there is anything about her which cannot be said,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.6895705826107905
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.31042941738920937
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "that she relishes tombstones. falls down marble stairs that she is ground only. that she is not ground that you can remember the first time you met that she is always with you,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.9922866616062084
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.007713338393791581
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "that she can be seen without grace that there is anything to say of her which is not truth,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.9442574352187781
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.055742564781221776
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "for there is another Lilith. not made for earth of whom it is said / that when she is seen by men it is as vapour / a plague / a cacophony of unique bells / straining & stranger. they pursue her unsubstantial cors thru this world,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.9476689183077744
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.05233108169222556
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "& the next. She is. in fact. the archetypal foxfire of the stars will o'the wisp of empty space cosmic marshlight that lures us away from the heavenly spheres. our home,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.9909393710151732
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.009060628984826838
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "I did not see those tents again. nor the wagons infinitely slow on the infinitely windy plains. so cold. every star in the sky was a different color the sky itself a tangled tapestry. glowing but almost. I could see the planet from which we had come,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.9185796176399444
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.08142038236005558
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "ostrich & pachyderm Who will remember the bleakness of this time? Who will recall it. later?,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.7600784589578269
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.23992154104217303
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "you are my bread and the hairline noise of my bones you are almost,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.7556670337488852
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.2443329662511147
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "the sea you are not stone or molten sound I think you have no hands,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.9676446858250668
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.03235531417493325
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "I could not remember (then) what our purpose was but remembered the name Mahakala. in the dawn in the dawn confronted Shiva. the cold light revealed the \"mindborn\" worlds. as simply that. I watched them propagated. flowing out.,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.8641805227733482
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.13581947722665177
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "for crossing tongues (the sand here never shifts) I think tomorrow,non-suicidal",
+  "top_class" : "suicidal",
+  "classes" : [ {
+    "class_name" : "suicidal",
+    "confidence" : 0.9616695195869577
+  }, {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.03833048041304237
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "or. more simply. one mirror reflecting another. then broke the mirrors. you were no longer in sight nor any purpose. stared at this new blackness the mindborn worlds fled. and the mind turned off: a madness. or a beginning?,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.966073614579205
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.03392638542079497
+  } ]
+}{
+  "classifier_id" : "359f3fx202-nlc-68777",
+  "url" : "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-68777",
+  "text" : "for Alan This. then. is the gift the world has given me (you have given me) softly the snow cupped in hollows,non-suicidal",
+  "top_class" : "non-suicidal",
+  "classes" : [ {
+    "class_name" : "non-suicidal",
+    "confidence" : 0.6211171640714832
+  }, {
+    "class_name" : "suicidal",
+    "confidence" : 0.3788828359285168
+  } ]
+}
